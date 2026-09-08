@@ -1,8 +1,8 @@
 # Privacy Policy | Política de Privacidade | Política de Privacidad
 
-**Last Updated:** October 2023  
+**Last Updated / Última actualización:** Octubre 2023  
 **App:** Voice Translator  
-**Developer:** Igor Chaves / IA  
+**Developer / Desarrollador:** Igor Chaves / IA  
 **GitHub:** [ikeyss](https://github.com/ikeyss)
 
 ---
@@ -14,7 +14,7 @@ Esta Política de Privacidade descreve como o **Voice Translator** ("nós", "nos
 
 ### 2. Coleta de Dados
 *   **Áudio e Voz:** Utilizamos a permissão de microfone apenas para capturar sua fala e convertê-la em texto. O áudio é processado via API e **não é armazenado permanentemente** em nossos servidores.
-*   **Dados de Publicidade:** Utilizamos o Google AdMob, que coleta identificadores de publicidade (como o ID de publicidade do Android) para exibir anúncios personalizados ou não personalizados.
+*   **Dados de Publicidade:** Utilizamos o Google AdMob, que coleta identificadores de publicidade (como o ID de publicidade do Android) para exibir anúncios.
 *   **Transações:** O Google Play Billing processa compras (remover anúncios). Não armazenamos seus dados de cartão de crédito; todas as transações são gerenciadas de forma segura pelo Google.
 
 ### 3. Permissões Requeridas
@@ -26,11 +26,10 @@ Esta Política de Privacidade descreve como o **Voice Translator** ("nós", "nos
 O app utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo:
 *   [Google Play Services](https://www.google.com/policies/privacy/)
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=pt-BR)
-*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
 ### 5. Contato
 Para dúvidas ou solicitações sobre seus dados:
-**Email:** ikeys3d@gmail.com  
+**Email:** ikey3d@gmail.com  
 **Desenvolvedor:** Igor Chaves / IA
 
 ---
@@ -55,7 +54,7 @@ This Privacy Policy explains how **Voice Translator** ("we", "our") collects, us
 *   [AdMob](https://support.google.com/admob/answer/6128543)
 
 ### 5. Contact
-**Email:** ikeys3d@gmail.com  
+**Email:** ikey3d@gmail.com  
 **Developer:** Igor Chaves / IA
 
 ---
@@ -63,16 +62,24 @@ This Privacy Policy explains how **Voice Translator** ("we", "our") collects, us
 ## 🇪🇸 Español
 
 ### 1. Introducción
-Esta Política de Privacidad describe cómo **Voice Translator** colecciona y protege su información.
+Esta Política de Privacidad describe cómo **Voice Translator** ("nosotros", "nuestro") recopila, utiliza y protege su información. Al utilizar la aplicación, usted acepta las prácticas descritas aquí.
 
-### 2. Colección de Datos
-*   **Audio y Voz:** Usamos el micrófono solo para la traducción. El audio **no se almacena permanentemente**.
-*   **Publicidad:** Usamos Google AdMob para mostrar anuncios.
+### 2. Recopilación de Datos
+*   **Audio y Voz:** Utilizamos el permiso del micrófono solo para capturar su voz y convertirla en texto. El audio se procesa a través de una API y **no se almacena de forma permanente** en nuestros servidores.
+*   **Datos de Publicidad:** Utilizamos Google AdMob, que recopila identificadores de publicidad (como el ID de publicidad de Android) para mostrar anuncios.
+*   **Transacciones:** Google Play Billing gestiona las compras (eliminar anuncios). No almacenamos los datos de su tarjeta de crédito; todas las transacciones son gestionadas de forma segura por Google.
 
-### 3. Permisos
-*   `RECORD_AUDIO`: Para reconocimiento de voz.
-*   `INTERNET`: Para traducción y anuncios.
+### 3. Permisos Requeridos
+*   `RECORD_AUDIO`: Necesario para el reconocimiento de voz.
+*   `INTERNET`: Necesario para los servicios de traducción y anuncios.
+*   `BILLING`: Necesario para las funciones premium.
 
-### 4. Contacto
-**Email:** ikeys3d@gmail.com  
+### 4. Servicios de Terceros
+La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo:
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=es)
+
+### 5. Contacto
+Para dudas o solicitudes sobre sus datos:
+**Email:** ikey3d@gmail.com  
 **Desarrollador:** Igor Chaves / IA

@@ -1,6 +1,6 @@
 # Privacy Policy | Política de Privacidade | Política de Privacidad
 
-**Last Updated / Última actualización:** Octubre 2023  
+**Last Updated / Última actualización:** Marzo 2024  
 **App:** Voice Translator  
 **Developer / Desarrollador:** Igor Chaves / IA  
 **GitHub:** [ikeyss](https://github.com/ikeyss)
@@ -62,17 +62,17 @@ This Privacy Policy explains how **Voice Translator** ("we", "our") collects, us
 ## 🇪🇸 Español
 
 ### 1. Introducción
-Esta Política de Privacidad describe cómo **Voice Translator** ("nosotros", "nuestro") recopila, utiliza y protege su información. Al utilizar la aplicación, usted acepta las prácticas descritas aquí.
+Esta Política de Privacidad explica cómo **Voice Translator** ("nosotros", "nuestro") recopila, utiliza y protege su información. Al utilizar la aplicación, usted acepta las prácticas descritas aquí.
 
 ### 2. Recopilación de Datos
-*   **Audio y Voz:** Utilizamos el permiso del micrófono solo para capturar su voz y convertirla en texto. El audio se procesa a través de una API y **no se almacena de forma permanente** en nuestros servidores.
-*   **Datos de Publicidad:** Utilizamos Google AdMob, que recopila identificadores de publicidad (como el ID de publicidad de Android) para mostrar anuncios.
-*   **Transacciones:** Google Play Billing gestiona las compras (eliminar anuncios). No almacenamos los datos de su tarjeta de crédito; todas las transacciones son gestionadas de forma segura por Google.
+*   **Audio y Voz:** Utilizamos el permiso del micrófono únicamente para capturar el habla y convertirla en texto. El audio se procesa a través de una API y **no se almacena de forma permanente** en nuestros servidores.
+*   **Datos de Publicidad:** Utilizamos Google AdMob, que recopila identificadores de publicidad (como el ID de publicidad de Android) para mostrar anuncios relevantes.
+*   **Transacciones:** Google Play Billing gestiona las compras dentro de la aplicación (para eliminar anuncios). No almacenamos los datos de su tarjeta de crédito; todas las transacciones son gestionadas de forma segura por la plataforma de Google.
 
 ### 3. Permisos Requeridos
-*   `RECORD_AUDIO`: Necesario para el reconocimiento de voz.
-*   `INTERNET`: Necesario para los servicios de traducción y anuncios.
-*   `BILLING`: Necesario para las funciones premium.
+*   `RECORD_AUDIO`: Necesario para el funcionamiento del reconocimiento de voz.
+*   `INTERNET`: Necesario para los servicios de traducción y carga de anuncios.
+*   `BILLING`: Necesario para las funcionalidades premium y compras in-app.
 
 ### 4. Servicios de Terceros
 La aplicación utiliza servicios de terceros que pueden recopilar información utilizada para identificarlo:
@@ -80,6 +80,6 @@ La aplicación utiliza servicios de terceros que pueden recopilar información u
 *   [AdMob](https://support.google.com/admob/answer/6128543?hl=es)
 
 ### 5. Contacto
-Para dudas o solicitudes sobre sus datos:
+Para cualquier duda o solicitud relacionada con sus datos:
 **Email:** ikey3d@gmail.com  
 **Desarrollador:** Igor Chaves / IA

@@ -2,7 +2,7 @@
 
 **Last Updated:** October 2023  
 **App:** Voice Translator  
-**Developer:** Igor Duarte Gonçalves Chaves  
+**Developer:** Igor Chaves / IA  
 **GitHub:** [ikeyss](https://github.com/ikeyss)
 
 ---
@@ -30,8 +30,8 @@ O app utiliza serviços de terceiros que podem coletar informações usadas para
 
 ### 5. Contato
 Para dúvidas ou solicitações sobre seus dados:
-**Email:** [ikeys3d@gmail.com] *(Favor validar este email)*  
-**Desenvolvedor:** Igor Duarte Gonçalves Chaves
+**Email:** ikeys3d@gmail.com  
+**Desenvolvedor:** Igor Chaves / IA
 
 ---
 
@@ -55,8 +55,8 @@ This Privacy Policy explains how **Voice Translator** ("we", "our") collects, us
 *   [AdMob](https://support.google.com/admob/answer/6128543)
 
 ### 5. Contact
-**Email:** [ikeys3d@gmail.com]  
-**Developer:** Igor Duarte Gonçalves Chaves
+**Email:** ikeys3d@gmail.com  
+**Developer:** Igor Chaves / IA
 
 ---
 
@@ -74,4 +74,5 @@ Esta Política de Privacidad describe cómo **Voice Translator** colecciona y pr
 *   `INTERNET`: Para traducción y anuncios.
 
 ### 4. Contacto
-**Email:** [ikeys3d@gmail.com]
+**Email:** ikeys3d@gmail.com  
+**Desarrollador:** Igor Chaves / IA

@@ -1,87 +1,77 @@
-Privacy Policy
-Last updated: March 2026
+# Privacy Policy | Política de Privacidade | Política de Privacidad
 
-This Privacy Policy describes how Voice Translator ("the App"), developed by Ikeys Apps, collects, uses, and shares information about you when you use our mobile application.
+**Last Updated:** October 2023  
+**App:** Voice Translator  
+**Developer:** Igor Duarte Gonçalves Chaves  
+**GitHub:** [ikeyss](https://github.com/ikeyss)
 
-1. Information We Collect
-The App may collect the following types of information:
+---
 
-Microphone audio: Only when you press the record button. Audio is processed for speech recognition and is not stored on our servers.
-Device information: Basic device data collected by third-party SDKs for advertising purposes (e.g., advertising ID).
-Usage data: Anonymous data about how you interact with the app, collected by Google AdMob.
-2. How We Use Your Information
-To provide voice translation services
-To display relevant advertisements via Google AdMob
-To improve app performance and user experience
-3. Third-Party Services
-The App uses the following third-party services that may collect information:
+## 🇧🇷 Português (Brasil)
 
-Google AdMob: For displaying advertisements. AdMob may use the advertising ID to show personalized ads. See Google Privacy Policy.
-Google Play Billing: For processing in-app purchases. Payment information is handled entirely by Google.
-Android Speech Recognition: For converting voice to text. Audio is processed by Android's built-in speech services.
-4. In-App Purchases
-The App offers a one-time purchase to remove advertisements ("Remove Ads - Premium"). All payment transactions are processed securely by Google Play. We do not store any payment or credit card information.
+### 1. Introdução
+Esta Política de Privacidade descreve como o **Voice Translator** ("nós", "nosso") coleta, usa e protege suas informações. Ao utilizar o aplicativo, você concorda com as práticas descritas aqui.
 
-5. Permissions
-The App requests the following permissions:
+### 2. Coleta de Dados
+*   **Áudio e Voz:** Utilizamos a permissão de microfone apenas para capturar sua fala e convertê-la em texto. O áudio é processado via API e **não é armazenado permanentemente** em nossos servidores.
+*   **Dados de Publicidade:** Utilizamos o Google AdMob, que coleta identificadores de publicidade (como o ID de publicidade do Android) para exibir anúncios personalizados ou não personalizados.
+*   **Transações:** O Google Play Billing processa compras (remover anúncios). Não armazenamos seus dados de cartão de crédito; todas as transações são gerenciadas de forma segura pelo Google.
 
-RECORD_AUDIO: Required for voice recognition. Used only when you actively press the record button.
-INTERNET: Required for translation services and displaying ads.
-ACCESS_NETWORK_STATE: To check internet connectivity before making requests.
-6. Data Retention
-Translation history is stored locally on your device only and is never sent to our servers. You can clear this data at any time by uninstalling the app.
+### 3. Permissões Requeridas
+*   `RECORD_AUDIO`: Necessária para o reconhecimento de voz.
+*   `INTERNET`: Necessária para tradução e carregamento de anúncios.
+*   `BILLING`: Necessária para a funcionalidade premium.
 
-7. Children's Privacy
-The App is not directed to children under the age of 13. We do not knowingly collect personal information from children under 13.
+### 4. Terceiros
+O app utiliza serviços de terceiros que podem coletar informações usadas para identificá-lo:
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543?hl=pt-BR)
+*   [Google Analytics for Firebase](https://firebase.google.com/policies/analytics)
 
-8. Your Rights (LGPD / GDPR)
-Depending on your location, you may have rights regarding your personal data, including:
+### 5. Contato
+Para dúvidas ou solicitações sobre seus dados:
+**Email:** [ikeys3d@gmail.com] *(Favor validar este email)*  
+**Desenvolvedor:** Igor Duarte Gonçalves Chaves
 
-The right to access your data
-The right to delete your data
-The right to opt out of personalized advertising
-To opt out of personalized ads, go to your device settings and reset or disable your Advertising ID.
+---
 
-9. Changes to This Policy
-We may update this Privacy Policy from time to time. Changes will be posted on this page with an updated date.
+## 🇺🇸 English
 
-10. Contact Us
-If you have any questions about this Privacy Policy, please contact us at:
+### 1. Introduction
+This Privacy Policy explains how **Voice Translator** ("we", "our") collects, uses, and protects your information. By using the app, you agree to these practices.
 
-📧 ikeys3d@gmail.com
+### 2. Data Collection
+*   **Audio and Voice:** We use microphone permission only to capture speech for translation. Audio is processed via API and is **not permanently stored**.
+*   **Advertising Data:** We use Google AdMob, which collects advertising identifiers to show ads.
+*   **Transactions:** Google Play Billing manages in-app purchases. We do not store payment information.
 
-🌐 https://ikeyss.github.io
+### 3. Required Permissions
+*   `RECORD_AUDIO`: For speech recognition.
+*   `INTERNET`: For translation services and ads.
+*   `BILLING`: For premium features.
 
-Política de Privacidade Última atualização: março de 2026
+### 4. Third-Party Services
+*   [Google Play Services](https://www.google.com/policies/privacy/)
+*   [AdMob](https://support.google.com/admob/answer/6128543)
 
-Esta Política de Privacidade descreve como o Voice Translator ("o App"), desenvolvido pela Ikeys Apps, coleta, utiliza e compartilha informações sobre você quando você utiliza nosso aplicativo móvel.
+### 5. Contact
+**Email:** [ikeys3d@gmail.com]  
+**Developer:** Igor Duarte Gonçalves Chaves
 
-Informações que Coletamos O App pode coletar os seguintes tipos de informações:
-Áudio do microfone: Apenas quando você pressiona o botão de gravação. O áudio é processado para reconhecimento de voz e não é armazenado em nossos servidores. Informações do dispositivo: Dados básicos do dispositivo coletados por SDKs de terceiros para fins de publicidade (por exemplo, ID de publicidade). Dados de uso: Dados anônimos sobre como você interage com o app, coletados pelo Google AdMob.
+---
 
-2. Como Usamos Suas Informações
-Para fornecer serviços de tradução por voz
-Para exibir anúncios relevantes via Google AdMob
-Para melhorar o desempenho do app e a experiência do usuário
+## 🇪🇸 Español
 
-3. Serviços de Terceiros
-O App utiliza os seguintes serviços de terceiros que podem coletar informações:
+### 1. Introducción
+Esta Política de Privacidad describe cómo **Voice Translator** colecciona y protege su información.
 
-Google AdMob: Para exibir anúncios. O AdMob pode usar o ID de publicidade para mostrar pessoas anúncios personalizados. Veja a Política de Privacidade do Google. Cobrança do Google Play: Para processamento de compras dentro do aplicativo. As informações de pagamento são totalmente gerenciadas pelo Google. Reconhecimento de Voz do Android: Para converter voz em texto. O áudio é processado pelos serviços de fala integrados do Android. 
+### 2. Colección de Datos
+*   **Audio y Voz:** Usamos el micrófono solo para la traducción. El audio **no se almacena permanentemente**.
+*   **Publicidad:** Usamos Google AdMob para mostrar anuncios.
 
-4. Compras Dentro do Aplicativo O aplicativo oferece uma compra única para remover anúncios ("Remover Anúncios - Premium"). Todas as transações de pagamento são processadas de forma segura pelo Google Play. Não armazenamos nenhuma informação de pagamento ou cartão de crédito.
+### 3. Permisos
+*   `RECORD_AUDIO`: Para reconocimiento de voz.
+*   `INTERNET`: Para traducción y anuncios.
 
-5. Permissões O aplicativo solicita as seguintes permissões: GRAVAR_AUDIO: Necessário para reconhecimento de voz. Usado apenas quando você pressiona ativamente o botão de gravação. INTERNET: Necessário para serviços de tradução e exibição de anúncios. ACCESS_NETWORK_STATE: Para verificar a conectividade com a internet antes de fazer solicitações.
-
-6. Retenção de Dados O histórico de traduções é armazenado localmente apenas no seu dispositivo e nunca é enviado para nossos servidores. Você pode limpar esses dados a qualquer momento desinstalando o aplicativo.
-
-7. Privacidade das Crianças O aplicativo não é direcionado direcionado a crianças com menos de 13 anos. Não coletamos conscientemente informações pessoais de crianças menores de 13 anos.
-
-8. Seus Direitos (LGPD / GDPR) Dependendo da sua localização, você pode ter direitos relacionados aos seus dados pessoais, incluindo: O direito de acessar seus dados O direito de excluir seus dados O direito de optar por não receber publicidade personalizada Para optar por não receber anúncios personalizados, vá para as configurações do seu dispositivo e redefina ou desative seu ID de publicidade.
-
-9. Alterações nesta Política Podemos atualizar esta Política de Privacidade de tempos em tempos. As alterações serão publicadas nesta página com a data atualizada.
-
-10. Contate-nos Se você tiver alguma dúvida sobre esta Política de Privacidade, por favor entre em contato conosco em:
-
-📧 ikeys3d@gmail.com 
-🌐 https://ikeyss.github.io
+### 4. Contacto
+**Email:** [ikeys3d@gmail.com]

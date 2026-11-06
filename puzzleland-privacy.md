@@ -30,4 +30,4 @@
 
 ## 7. Contato
 **E‑mail:** ikeys3d@gmail.com  
-**Website:** https://github.com/ikeyss/privacy-policy/blob/main/puzzleland-privacy.md
+**Website:** https://ikeyss.github.io/privacy-policy/puzzleland-privacy.html
